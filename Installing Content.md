@@ -10,7 +10,7 @@ As a developer, if you are interested in listing your products/features there, p
 
 ## The Install Package Content
 
-The Install Partner Products feature works with packages, provided by the developer, and uploaded on the Vectorworks online storage.
+The Install Partner Products feature works with packages provided by the developer, and uploaded on the Vectorworks online storage.
 
 Example install packages can be downloaded at [PartnerInstallPackage_Example.zip](files/PartnerInstallPackage_Example.zip).
 
