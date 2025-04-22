@@ -25,10 +25,12 @@ Download this zip file so that you have the metric or imperial templates you nee
 ## Audio Speaker Content Development Guide (Entertainment)
 This guide explains how to create professional audio speakers, speaker arrays, and monitors for use in Vectorworks Spotlight. You will need the zip file of templates and examples (link provided above) along with this guide.
 
-*[03 Audio Speakers Guide](files/03_Audio%20Speakers_v1.0.pdf)
+* [03 Audio Speakers Guide](files/03_Audio%20Speakers_v1.0.pdf)
+
 
 
 ## Audio Bumper Content Development Guide (Entertainment)
 This guide shows you how to create the bumper accessories that serve to support the speakers in a speaker line array, for use in Vectorworks Spotlight. You will need the zip file of templates and examples (link provided above) along with this guide.
 
-*[04 Audio Bumpers Guide](files/04_AudioBumpers_v1.0.pdf)
+* [04 Audio Bumpers Guide](files/04_AudioBumpers_v1.0.pdf)
+
